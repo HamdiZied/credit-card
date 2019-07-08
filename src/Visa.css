@@ -1,0 +1,78 @@
+
+.card{
+  width: 40%;
+  height: 20%;
+  top: 50%;
+  left: 50%;
+  margin: 80px;
+   background-image:url(back.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+
+   border-radius: 20px;
+ }
+ 
+ .header_card h1{
+    color: white;
+ }
+ .header_card{
+     display: flex;
+     justify-content: flex-end;
+     margin-right: 50px;
+ }
+ .logo-pus {
+    width: 106px;
+    height: 88px;
+    margin-left: 21px;
+}
+
+
+.ref-card{
+    width: 100%;
+}
+.ref-card p {
+     width: 100%;
+}
+.num-card strong{
+    width: 50%;
+    padding:0 13px;
+    background: #FFCCFF;
+    opacity: 3;
+    display: flex;
+    justify-content: center;
+}
+.num-card {
+    display: flex;
+    justify-content: center;
+}
+.date-card{
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+}
+.date-card h2{
+    display: flex;
+    justify-content: center;
+    color:white;
+}
+.main-carte {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.master{
+    width: 25%;
+    height: 79px;
+    margin-bottom: 29%;
+    margin: 15px;
+}
+.name-carte{
+    margin: 20px;
+    color:white;
+  
+}
+.photo{
+    height: 250px;
+    display: flex;
+    align-items: center
+} 
